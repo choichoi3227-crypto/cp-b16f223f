@@ -1,0 +1,12 @@
+{
+  "name": "cp-b16f223f",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^4.0.0"
+  }
+}
